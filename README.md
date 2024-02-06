@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kattaco
-- 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... code
-- 📫 How to reach me ... dont :)
+
 
 <!---
 kattaco/kattaco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
